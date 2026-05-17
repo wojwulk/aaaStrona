@@ -1,0 +1,33 @@
+[
+{
+    "imie":"Tomasz",
+    "nazwisko":"Psikuta",
+    "przedmiot":"Matematyka",
+    "sala":"101",
+    "godziny":"Poniedzialek 08:00-10:00"
+},
+{
+    "imie":"Wojciech",
+    "nazwisko":"Miksa",
+    "przedmiot":"W sumie to nie wiadomo czego On uczy",
+    "sala":"null",
+    "godziny":"Nie przyszedl i nawet nie przeprowadzil egzaminu zgodnie z godzina"
+},
+{
+    "imie":"Krystian",
+    "nazwisko":"Guminski",
+    "przedmiot":"Ajaje UwU",
+    "sala":"null",
+    "godziny":"Nie przyszedl bo strzela do golebi... NAPIERDALAMYYY Z KARABINKOW"
+},
+{
+    "imie":"Andrzej",
+    "nazwisko":"Herman",
+    "przedmiot":"Chyba Bazy dancyh ale mi sie dobrze spalo ostatnio i nie wiem",
+    "sala":"null",
+    "godziny":"Na papierosie siedzi 24/7 w czerwonych laczkach"
+}
+
+
+
+]
